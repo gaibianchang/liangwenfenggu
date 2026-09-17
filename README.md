@@ -4,6 +4,8 @@
 
 单文件 exe，基于 .NET Framework 4.x（Windows 自带，无需额外安装运行时），源码全部由 `csc.exe` 直接编译，不依赖 Visual Studio 或 NuGet 包。
 
+**[⬇ 下载最新版 LiangWenFengGu.exe](https://github.com/gaibianchang/liangwenfenggu/releases/latest)**
+
 ![摆件](docs/widget.png)
 
 ![设置](docs/settings.png)
@@ -44,7 +46,7 @@ NewAPI 模式调用 `GET {请求地址}/api/user/self`，请求头 `Authorizatio
 
 ## 快速开始
 
-1. 下载 `LiangWenFengGu.exe`，放到任意可写目录（例如 `D:\LiangWenFengGu\`）。
+1. 从 [Releases](https://github.com/gaibianchang/liangwenfenggu/releases/latest) 下载 `LiangWenFengGu.exe`，放到任意可写目录（例如 `D:\LiangWenFengGu\`）。
 2. 双击运行，右键摆件 → **设置**，选择余额来源并填写连接信息，点「测试连接」确认能取到余额后保存。
 3. 想开机自动启动，勾选设置里的「开机自启动」，或在托盘菜单里勾选。
 
